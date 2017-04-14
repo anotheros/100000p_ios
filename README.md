@@ -1,6 +1,8 @@
 # 100000p-ios
 ios客户端
 
+qq群号:238068472
+
 
  [Readthis](http://100000p.com)
 
